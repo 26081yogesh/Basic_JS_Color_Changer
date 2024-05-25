@@ -1,0 +1,61 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  margin: 10px;
+}
+
+.square {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  border: 2px solid #000;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#green {
+  background-color: green;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#brown {
+  background-color: brown;
+}
+
+#gray {
+  background-color: gray;
+}
+
+#cyan {
+  background-color: cyan;
+}
